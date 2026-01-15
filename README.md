@@ -1,0 +1,2 @@
+Spam Email Classifier
+Developed a Spam Email Classifier to identify spam and legitimate emails. Collected 5800+ emails from the Spam Assassin Public Corpus and preprocessed text data by removing stop words, HTML tags, punctuation, and tokenizing and stemming words. Identified 2500+ high-frequency words such as ”urgent” and ”guaranteed” and analyzed their probabilities for classification. Used the Naïve Bayes machine learning algorithm to train the spam classifier, achieving a precision of 98%.
